@@ -1,0 +1,19 @@
+[
+    {
+      "role": "AI Intern",
+      "organisation": "AIMER Society",
+      "startDate": "June,2024",
+      "endDate": "July,2024",
+      "experiences": ["Developed Talking AI Bot","Developed Mini-Gemini Bot,Weather Bot."],
+      "imageSrc": "history/Indian_servers logo.jpeg"
+    },
+    {
+      "role": "ML Intern",
+      "organisation": "Bharat Intern",
+      "startDate": "January,2023",
+      "endDate": "February,2023",
+      "experiences": ["Developed Breast Cancer Detection Model","Developed SMS Classification model"],
+      "imageSrc": "history/bharat_intern.jpg"
+    }
+
+]

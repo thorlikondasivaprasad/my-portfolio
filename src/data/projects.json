@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Talking AI BOT",
+      "imageSrc": "projects/talking_app.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Streamlit","Python","API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/thorlikondasivaprasad/Talking_AI_BOT_Website"
+    },
+    {
+      "title": "Face Mask Detection System",
+      "imageSrc": "projects/face_mask_detection.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Machine Learning","CNN","Python"],
+      "demo": "https://github.com/thorlikondasivaprasad/Face_Mask_Prediction_TSF",
+      "source": "https://github.com/thorlikondasivaprasad/Face_Mask_Prediction_TSF"
+    },
+    {
+      "title": "Responsive Portfolio",
+      "imageSrc": "projects/portfolio.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React","HTML","CSS","JavaScript"],
+      "demo": "https://github.com/thorlikondasivaprasad?tab=repositories",
+      "source": "https://github.com/thorlikondasivaprasad?tab=repositories"
+    },
+    {
+      "title": "Bloggers Fort",
+      "imageSrc": "projects/p1.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "HTML", "CSS","JavaScript"],
+      "demo": "https://private-user-images.githubusercontent.com/108944251/337132516-79db6814-7628-4340-9081-b567e39ca2f3.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNDU3MjUsIm5iZiI6MTcxODM0NTQyNSwicGF0aCI6Ii8xMDg5NDQyNTEvMzM3MTMyNTE2LTc5ZGI2ODE0LTc2MjgtNDM0MC05MDgxLWI1NjdlMzljYTJmMy5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNFQwNjEwMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjQ4MWJjZTYxZTZlMjIwNmFkY2ZhODZlMDUxNDJiYWFmMDFkMjIxYTlkZGM0ZmNkZTJiODNlMDJhNzkzMmRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0LP9Bst1UgF0HyTWxHMJDQj1_dw2YnHB7b8bAdJIegA",
+      "source": "https://github.com/thorlikondasivaprasad/React-Blog_Website-project"
+    },
+    {
+      "title": "URL Shortner",
+      "imageSrc": "projects/url_app.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Django","Python","HTML","CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/thorlikondasivaprasad/Django_URL_Shortner"
+    }
+
+  ]
