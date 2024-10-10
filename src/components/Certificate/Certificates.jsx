@@ -8,8 +8,7 @@ const Certificates = () => {
     <section className={styles.container} id="certifications">
     <div className="container mt-5">
       <div className="row justify-content-center text-center">
-        <div className="col-md-8 ">
-        
+        <div className="col-md-8 "> 
           <h2 className={styles.title}><span style={{letterSpacing:"6px",fontSize:"35px",fontWeight:"700"}}>Certificates</span></h2>
         <div className={styles.content}>
           <div id="carouselExampleIndicators" className="carousel slide carousel-container bg-dark mt-4" data-bs-ride="carousel">
@@ -21,16 +20,16 @@ const Certificates = () => {
             </div>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src="/assets/certificates/career_essentials.jpg" className="d-block w-100" alt="Career Essentials" />
+                <img src="/assets/certificate/career_essentials.jpg" className="d-block w-100" alt="Career Essentials" />
               </div>
               <div className="carousel-item">
-                <img src="/assets/certificates/GOOG(DA).jpg" className="d-block w-100" alt="Data Analytics" />
+                <img src="/assets/certificate/GOOG(DA).jpg" className="d-block w-100" alt="Data Analytics" />
               </div>
               <div className="carousel-item">
-                <img src="assets/certificates/ai-900.jpg" className="d-block h-300 w-100" alt="Microsoft AI-900" />
+                <img src="assets/certificate/ai-900.jpg" className="d-block h-300 w-100" alt="Microsoft AI-900" />
               </div>
               <div className="carousel-item">
-                <img src="assets/certificates/AI_for_everyone.jpg" className="d-block w-100" alt="AI for Everyone" />
+                <img src="assets/certificate/AI_for_everyone.jpg" className="d-block w-100" alt="AI for Everyone" />
               </div>
 
               {/* Add more carousel items here if needed */}

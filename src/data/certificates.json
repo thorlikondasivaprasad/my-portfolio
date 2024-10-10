@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Google DA",
+        "imageSrc":"/assets/certificates/GOOG(DA).jpg"
+    },
+    {
+        "title":"Microsoft Certification",
+        "imageSrc":"/assets/certificates/ai-900.jpg"
+    },
+    {
+        "title":"Linkedin and Microsoft",
+        "imageSrc":"/assets/certificates/career_essentials.jpg"
+    },
+    {
+        "title":"Deep Learning.io",
+        "imageSrc":"/assets/certificates/AI_for_everyone.jpg"
+    }
+]

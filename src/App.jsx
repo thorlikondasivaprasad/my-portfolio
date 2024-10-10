@@ -7,7 +7,7 @@ import Experience from './components/Experience/Experience';
 import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact';
 
-import Certificates from './components/Certificates/Certificates';
+import Certificates from './components/Certificate/Certificates';
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 // import 'bootstrap/dist/js/bootstrap.bundle.min';
