@@ -1,5 +1,4 @@
 {
-  "homepage":"https://thorlikondasivaprasad.github.io/my-portfolio/",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +6,6 @@
   "scripts": {
     "start":"react-scripts start",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",

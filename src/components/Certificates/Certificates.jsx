@@ -2,6 +2,11 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import './custom.css'; // assuming you have a custom CSS file for custom properties
 import styles from "./Certificates.module.css";
+import Pic1 from '../../../assets/certificates/GOOG(DA).jpg';
+import Pic2 from '../../../assets/certificates/career_essentials.jpg';
+import Pic3 from '../../../assets/certificates/AI_for_everyone.jpg';
+import Pic4 from '../../../assets/certificates/ai-900.jpg';
+
 
 const Certificates = () => {
   return (
@@ -20,16 +25,16 @@ const Certificates = () => {
             </div>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src="/assets/certificate/career_essentials.jpg" className="d-block w-100" alt="Career Essentials" />
+                <img src={Pic2} className="d-block w-100" alt="Career Essentials" />
               </div>
               <div className="carousel-item">
-                <img src="/assets/certificate/GOOG(DA).jpg" className="d-block w-100" alt="Data Analytics" />
+                <img src={Pic1} className="d-block w-100" alt="Data Analytics" />
               </div>
               <div className="carousel-item">
-                <img src="assets/certificate/ai-900.jpg" className="d-block h-300 w-100" alt="Microsoft AI-900" />
+                <img src={Pic4}  className="d-block h-300 w-100" alt="Microsoft AI-900" />
               </div>
               <div className="carousel-item">
-                <img src="assets/certificate/AI_for_everyone.jpg" className="d-block w-100" alt="AI for Everyone" />
+                <img src={Pic3} className="d-block w-100" alt="AI for Everyone" />
               </div>
 
               {/* Add more carousel items here if needed */}
